@@ -8,6 +8,7 @@ ipykernel = "*"
 selenium = "*"
 requests = "*"
 webdriver-manager = "*"
+pymysql = "*"
 
 [dev-packages]
 
